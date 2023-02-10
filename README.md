@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Web3/smart contract
 🌱 I’m currently learning Move and Solidity
 
-<a href="https://github.com/passer-byzhang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=passer-byzhang&repo=github-readme-stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passer-byzhang)](https://github.com/anuraghazra/github-readme-stats)
