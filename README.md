@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Move and Solidity
 
+📝 [My CV](https://github.com/passer-byzhang/passer-byzhang/blob/main/CV.pdf)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passer-byzhang)](https://github.com/anuraghazra/github-readme-stats)
